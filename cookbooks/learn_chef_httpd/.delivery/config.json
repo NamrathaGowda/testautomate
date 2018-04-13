@@ -14,8 +14,7 @@
       "enable_cookstyle": true
     },
     "publish": {
-      "chef_server": true,
-      "github": "NamrathaGowda/chefAutomate"
+      "chef_server": true
     }
    }
 }
